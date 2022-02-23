@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dexterbrian
 - 👀 I’m interested in anything involving web and mobile applications that help solve problems and make the world a better place.
-- 🌱 I’m currently learning Flutter, Python, React and Blockchain development.
+- 🌱 I’m currently learning Flutter, NodeJs, Express and React.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 How to reach me at brianwaweru627@yahoo.com
 
