@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dexterbrian
 - 👀 I’m passionate about creating applications that help solve problems.
-- 🌱 Here's my stack: React, Fastify, Rails, Lumen, CodeIgniter and MySQL.
+- 🌱 Here's my stack: React, Tailwind, Fastify, Rails, Laravel, CodeIgniter and MySQL.
 - 💞️ I’m looking to collaborate on any of the above.
 - 📫 You can reach me at brianwaweru627@yahoo.com
 
