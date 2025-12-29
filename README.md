@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dexterbrian
 - 👀 I’m passionate about creating applications that help solve problems.
-- 🌱 Here's my stack: React, Tailwind, Fastify, Rails, Laravel, CodeIgniter and MySQL.
+- 🌱 Here's my stack: React, Next Js, Tailwind, Fastify, CodeIgniter, GO, Laravel, Rails, Spring Boot, PostgreSQL and MySQL.
 - 💞️ I’m looking to collaborate on any of the above.
-- 📫 You can reach me at brianwaweru627@yahoo.com
+- 📫 You can reach me at brianwaweru627@gmail.com
 
 <!---
 appifyke/appifyke is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
